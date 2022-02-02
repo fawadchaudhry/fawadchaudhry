@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fawadchaudhry
 - 👀 I’m interested in embedded systems and their applications
 - 🌱 I’m currently studying Mechatronics Engineering
-- 📫 Email me with any inquiries at fawadc32@gmail.com
+- 📫 Email me with any inquiries at chaudf3@mcmaster.ca
 
 <!---
 fawadchaudhry/fawadchaudhry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
